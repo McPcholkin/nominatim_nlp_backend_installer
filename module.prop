@@ -1,0 +1,6 @@
+id=nominatim_nlp_backend_installer
+name=NominatimNlpBackend  Installer
+version=Ver: 1
+versionCode=1
+author=microG project, n76, McPcholkin
+description=Install NominatimNlpBackend to system
