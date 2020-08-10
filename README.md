@@ -1,6 +1,6 @@
 # NominatimNlpBackend installer for magisk
 
-Just install NominatimNlpBackend as system-less app
+Just install [NominatimNlpBackend 1.2.2](https://f-droid.org/en/packages/org.microg.nlp.backend.nominatim/) as system app
 
 ## How to make magisk module:
 - Clone repo (or download as zip)
